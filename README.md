@@ -2,15 +2,15 @@
 
 ## Pojects 
 
-Cloud Computing Essentials
-Cloud First Steps
-Computing Solutions
-Cloud Economics
-Networking
-Connecting VPCs
-Databases in Practice
-Core Security Concepts
-File Stystems in the cloud
-Auto-Healing And Scaling Applications
-Highly  Available Web Applications
-NoSQL Database
+1. Cloud Computing Essentials
+2. Cloud First Steps
+3. Computing Solutions
+4. Cloud Economics
+5. Networking
+6. Connecting VPCs
+7. Databases in Practice
+8. Core Security Concepts
+9. File Stystems in the cloud
+10. Auto-Healing And Scaling Applications
+11. Highly  Available Web Applications
+12. NoSQL Database
