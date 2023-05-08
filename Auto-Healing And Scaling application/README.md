@@ -6,4 +6,4 @@
 
 ## Problem Statement:
 
-Help the city's gaming cafe implement auto-healing dervers and restrict users to a specific provisioning capacity.
+Help the city's gaming cafe implement auto-healing servers and restrict users to a specific provisioning capacity.
